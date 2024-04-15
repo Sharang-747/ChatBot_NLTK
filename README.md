@@ -1,7 +1,7 @@
-# CI/CD-Jenkins-Maven-Pipeline
+# ChatBot using NLTK(Natural Language Toolkit) Library in Python
 
-- Created Amazon EC2 Linux Instance and SSH'ed into it.
-- Installed Jenkins on EC2 Instance.
-- Installed Maven on instance.
-- Configured Jenkins to create pipeline.
-- Created Job on Jenkins.
+- This project is created using Google Collab.
+- Using NLTK Library of Python.
+- Processing data for response from bot using text file.
+- Using TfidfVectorizer function for conversion of ML model.
+- Generates responses from every user input from the chatbot.
