@@ -1,7 +1,6 @@
 # ChatBot using NLTK(Natural Language Toolkit) Library in Python
 
-- This project is created using Google Collab.
-- Using NLTK Library of Python.
-- Processing data for response from bot using text file.
-- Using `TfidfVectorizer` function for conversion of ML model.
-- Generates responses from every user input from the chatbot.
+- Leveraged text files containing large amounts of text data to train the chatbot model.
+- Utilized TF-IDF vectorization to pre-process text data, ensuring a clean and English-language format suitable for machine learning models.
+- Implemented response generation mechanisms for user input, facilitating an interactive and engaging user experience.
+
